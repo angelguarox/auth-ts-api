@@ -1,15 +1,15 @@
 # Auth API with TypeScript
 
-## Usage
+## Uso
 
-You can use this small API from your local server if you have MongoDB and Node.js installed, otherwise, from Docker, having a Node.js and MongoDB images you can run everything without any problem.
+Puedes usar esta pequeña API desde tu servidor local si tienes MongoDB y Node.js instalados, de lo contrario, desde Docker, al tener imágenes de Node.js y MongoDB puedes ejecutar todo sin ningún problema.
 
-### Clone this repository
+### Clonar este repositorio
 
 ```bash
 git clone https://github.com/angelguarox/auth-ts-api.git
 ```
-After the repository is cloned, you have to choose how to use this package. These are the steps to follow depending on the way you decide to run it:
+Después de clonar el repositorio, debe elegir cómo usar este paquete. Estos son los pasos a seguir según la forma en que decida ejecutarlo:
 
 #### Docker
 
